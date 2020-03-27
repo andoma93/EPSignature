@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-  s.name             = "EPSignature"
-  s.version          = "1.0.5"
+  s.name             = "EPSignatureUpdated"
+  s.version          = "1.0.6"
   s.summary          = "Signature component for iOS in Swift"
   s.description      = <<-DESC
 Features
@@ -17,7 +17,7 @@ DESC
   s.homepage         = "https://github.com/ipraba/EPSignature"
   s.license          = 'MIT'
   s.author           = { "Prabaharan" => "mailprabaharan.e@gmail.com" }
-  s.source           = { :git => "https://github.com/ipraba/EPSignature.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/andoma93/EPSignature.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '9.0'
   s.requires_arc = true
