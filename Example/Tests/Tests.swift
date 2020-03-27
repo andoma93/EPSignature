@@ -8,7 +8,7 @@
 //
 
 import XCTest
-import EPSignature
+import EPSignatureUpdated
 
 class EPCalendarTests: XCTestCase {
     

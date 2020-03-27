@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## EPSignature
+## EPSignatureUpdated
 
 Copyright (c) 2016 Prabaharan <prabaharan.e@payoda.com>
 

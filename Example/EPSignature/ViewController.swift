@@ -8,7 +8,7 @@
 //
 
 import UIKit
-import EPSignature
+import EPSignatureUpdated
 
 class ViewController: UIViewController, EPSignatureDelegate {
     @IBOutlet weak var imgWidthConstraint: NSLayoutConstraint!

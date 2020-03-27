@@ -1,0 +1,6 @@
+framework module EPSignatureUpdated {
+  umbrella header "EPSignatureUpdated-umbrella.h"
+
+  export *
+  module * { export * }
+}

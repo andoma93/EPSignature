@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double EPSignatureVersionNumber;
-FOUNDATION_EXPORT const unsigned char EPSignatureVersionString[];
+FOUNDATION_EXPORT double EPSignatureUpdatedVersionNumber;
+FOUNDATION_EXPORT const unsigned char EPSignatureUpdatedVersionString[];
 
